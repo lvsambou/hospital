@@ -1,0 +1,286 @@
+.p-05 {
+  padding: 0.125rem; /* 2px */
+}
+.m-05 {
+  margin: 0.125rem; /* 2px */
+}
+.py-05 {
+  padding-top: 0.125rem; /* 2px */
+  padding-bottom: 0.125rem; /* 2px */
+}
+.my-05 {
+  margin-top: 0.125rem; /* 2px */
+  margin-bottom: 0.125rem; /* 2px */
+}
+.p-1 {
+  padding: 0.25rem; /* 4px */
+}
+.m-1 {
+  margin: 0.25rem; /* 4px */
+}
+.ml-1 {
+  margin-left: 0.25rem; /* 4px */
+}
+.mt-1 {
+  margin-top: 0.25rem; /* 4px */
+}
+.py-1 {
+  padding-top: 0.25rem; /* 4px */
+  padding-bottom: 0.25rem; /* 4px */
+}
+.my-1 {
+  margin-top: 0.25rem; /* 4px */
+  margin-bottom: 0.25rem; /* 4px */
+}
+.p-2 {
+  padding: 0.5rem; /* 8px */
+}
+.m-2 {
+  margin: 0.5rem; /* 8px */
+}
+.ml-2 {
+  margin-left: 0.5rem; /* 8px */
+}
+.mt-2 {
+  margin-top: 0.5rem; /* 8px */
+}
+.py-2 {
+  padding-top: 0.5rem; /* 8px */
+  padding-bottom: 0.5rem; /* 8px */
+}
+.my-2 {
+  margin-top: 0.5rem; /* 8px */
+  margin-bottom: 0.5rem; /* 8px */
+}
+.p-3 {
+  padding: 0.75rem; /* 12px */
+}
+.m-3 {
+  margin: 0.75rem; /* 12px */
+}
+.py-3 {
+  padding-top: 0.75rem; /* 12px */
+  padding-bottom: 0.75rem; /* 12px */
+}
+.my-3 {
+  margin-top: 0.75rem; /* 12px */
+  margin-bottom: 0.75rem; /* 12px */
+}
+.p-3v5 {
+  padding: 0.875rem; /* 14px */
+}
+.m-3v5 {
+  margin: 0.875rem; /* 14px */
+}
+.py-3v5 {
+  padding-top: 0.875rem; /* 14px */
+  padding-bottom: 0.875rem; /* 14px */
+}
+.my-3v5 {
+  margin-top: 0.875rem; /* 14px */
+  margin-bottom: 0.875rem; /* 14px */
+}
+.p-4 {
+  padding: 1rem; /* 16px */
+}
+.m-4 {
+  margin: 1rem; /* 16px */
+}
+.mt-4 {
+  margin-top: 1rem; /* 8px */
+}
+.ml-4 {
+  margin-left: 1rem; /* 8px */
+}
+.py-4 {
+  padding-top: 1rem; /* 16px */
+  padding-bottom: 1rem; /* 16px */
+}
+.my-4 {
+  margin-top: 1rem; /* 16px */
+  margin-bottom: 1rem; /* 16px */
+}
+.p-5 {
+  padding: 1.25rem; /* 20px */
+}
+.p-5 {
+  margin: 1.25rem; /* 20px */
+}
+.py-5 {
+  padding-top: 1.25rem; /* 20px */
+  padding-bottom: 1.25rem; /* 20px */
+}
+.my-5 {
+  margin-top: 1.25rem; /* 20px */
+  margin-bottom: 1.25rem; /* 20px */
+}
+.mt-5 {
+  margin-top: 1.25rem; /* 20px */
+}
+.p-6 {
+  padding: 1.5rem; /* 24px */
+}
+.m-6 {
+  margin: 1.5rem; /* 24px */
+}
+.mt-6 {
+  margin-top: 1.5rem; /* 24px */
+}
+.py-6 {
+  padding-top: 1.5rem; /* 24px */
+  padding-bottom: 1.5rem; /* 24px */
+}
+.my-6 {
+  margin-top: 1.5rem; /* 24px */
+  margin-bottom: 1.5rem; /* 24px */
+}
+.p-7 {
+  padding: 1.75rem; /* 28px */
+}
+.m-7 {
+  margin: 1.75rem; /* 28px */
+}
+.ml-7 {
+  margin-left: 1.75rem; /* 28px */
+}
+.py-7 {
+  padding-top: 1.75rem; /* 28px */
+  padding-bottom: 1.75rem; /* 28px */
+}
+.my-7 {
+  margin-top: 1.75rem; /* 28px */
+  margin-bottom: 1.75rem; /* 28px */
+}
+.mt-7 {
+  margin-top: 1.75rem; /* 28px */
+}
+.p-8 {
+  padding: 2rem; /* 32px */
+}
+.ml-8 {
+  margin-left: 2rem; /* 28px */
+}
+.mt-8 {
+  margin-top: 2rem; /* 28px */
+}
+.p-9 {
+  padding: 2.25rem; /* 36px */
+}
+.mt-9 {
+  margin-top: 2.25rem; /* 36px */
+}
+.p-10 {
+  padding: 2.5rem; /* 40px */
+}
+.mt-10 {
+  margin-top: 2.5rem; /* 40px */
+}
+.p-11 {
+  padding: 2.75rem; /* 44px */
+}
+.ml-11 {
+  margin-left: 2.75rem; /* 44px */
+}
+.p-12 {
+  padding: 3rem; /* 48px */
+}
+.pt-12 {
+  padding-top: 3rem; /* 48px */
+}
+.p-14 {
+  padding: 3rem; /* 48px */
+}
+.pt-14 {
+  padding-top: 3.5rem; /* 56px */
+}
+.p-15 {
+  padding: 4rem; /* 64px */
+}
+.pt-15 {
+  padding-top: 4rem; /* 64px */
+}
+.ml-15 {
+  margin-left: 4rem; /* 64px */
+}
+.ml-20 {
+  margin-left: 5rem; /* 80px */
+}
+.ml-32 {
+  margin-left: 8rem; /* 128px */
+}
+.ml-36 {
+  margin-left: 9rem; /* 144px */
+}
+
+
+.d-flex {
+  display: flex;
+}
+.fd-r {
+  flex-direction: row;
+}
+.fd-r-r {
+  flex-direction: row-reverse;
+}
+.fd-c {
+  flex-direction: column;
+}
+.fd-c-r {
+  flex-direction: column-reverse;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.justify-center {
+  justify-content: center;
+}
+.justify-between {
+  justify-content: space-between;
+}
+.items-center {
+  align-items: center;
+}
+
+.b-line-1 {
+  border: 1px solid #000000
+}
+.b-radius {
+  border-radius: 15%!important;
+}
+
+.bg-white {
+  background-color: white!important;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.fs-56 {
+  font-size: 3.5rem;
+}
+.fs-20 {
+  font-size: 1.25rem;
+}
+.fs-18 {
+  font-size: 1.125rem;
+}
+.fs-14 {
+  font-size: 0.875rem;
+}
+.fs-12 {
+  font-size: 0.75rem;
+}
+.fs-10 {
+  font-size: 0.625rem;
+}
+
+.fw-800 {
+  font-weight: 800;
+}
+
+.text-center {
+  text-align: center;
+}
