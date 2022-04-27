@@ -3,7 +3,7 @@
 ## Installation
 
 ### /!\ Warning /!\
-Vue JS Front directory is: hospital-vue
+Vue JS Front directory is: **hospital-vue**
 
 Due to some dependencies conflict, you may need to run serve with the following command:
 
