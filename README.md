@@ -5,10 +5,10 @@
 ### /!\ Warning /!\
 Vue JS Front directory is: **hospital-vue**
 
-Due to some dependencies conflict, you may need to run serve with the following command:
+Due to some dependencies conflict, you may need to install node-modules with the following command:
 
 ```bash
-npm run serve --force
+npm install --force
 ```
 
 You also may need to link hospital-lib with the following command to avoid those conflicts:
