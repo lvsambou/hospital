@@ -11,10 +11,10 @@ Due to some dependencies conflict, you may need to run serve with the following 
 npm run serve --force
 ```
 
-You also may need to link hospital-lib with the following command:
+You also may need to link hospital-lib with the following command to avoid those conflicts:
 
 ```bash
-npm link ../../hospital-lib
+npm link ../../hospital-lib --force
 ```
 
 All instructions are in the hospital.pdf
